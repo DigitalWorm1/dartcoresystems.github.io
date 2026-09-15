@@ -134,7 +134,7 @@ staticman:
 
 atom_feed:
   hide                   : false
-  path                   :
+  path                   : 
 
 
 # SEO Related
